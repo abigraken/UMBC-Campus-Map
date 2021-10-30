@@ -1,0 +1,59 @@
+"""
+Created on Fri Oct 29 23:59:24 2021
+
+@author: abigailkennedy
+"""
+
+{
+    "site" : "Walker Avenue South"
+    "latitude" : 39.259030
+    "longitude" : -76.714794
+}
+
+{
+    "site" : "Lot 8 - Smoking Area"
+    "latitude" : 39.256832
+    "longitude" : -76.714385
+}
+
+{
+    "site" : "Upper Walkway - FAB Staircase"
+    "latitude" : 39.255615
+    "longitude" : -76.713958
+}
+
+{
+    "site" : "Upper Walkway - FAB/ENGR Staircase"
+    "latitude" : 39.254982
+    "longitude" : -76.714275
+}
+
+{
+    "site" : "Upper Walkway - ENGR/ITE Staircase"
+    "latitude" : 39.254311
+    "longitude" : -76.714547
+}
+
+{
+    "site" : "PAHB East"
+    "latitude" : 39.255066
+    "longitude" : -76.714639
+}
+
+{
+    "site" : "Staircase - FAB/ENGR"
+    "latitude" : 39.254847
+    "longitude" : -76.713833
+}
+
+{
+    "site" : "Center Walkway - FAB/MEYR/ENGR/UC"
+    "latitude" : 39.254702
+    "longitude" : -76.713359
+}
+
+{
+    "site" : "Staircase - MEYR/UC"
+    "latitude" : 39.254638
+    "longitude" : -76.713131
+}
