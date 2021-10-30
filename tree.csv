@@ -1,0 +1,22 @@
+
+                  'locations': [, 
+                                'UW-FAB/ENGR_Stair->UW-ENGR/ITE_Stair',
+                                'PAHB(E)->UW-ENGR/ITE_Stair'],
+                  'time': [, , , , 53, , , 56]
+                  
+ self.location = location
+ self.lat = lat
+ self.lon= lon
+ self.time = time
+ self.left = None
+ self.right = None
+ 
+location,lat,lon,time,left,right
+Walker Ave (S),39.259030,-76.71479,0,Lot 8 - Smoking Area,None
+Lot 8 - Smoking Area,39.256832,-76.714385,30,PAHB (E),Upper Walkway - FAB Staircase
+Upper Walkway - FAB Staircase,39.255615,-76.713958,116,Upper Walkway - FAB/ENGR Staircase,None
+Upper Walkway - FAB/ENGR Staircase,39.254982,-76.714275,53,Upper Walkway - ENGR/ITE Staircase,
+Staircase - FAB/ENGR,39.254847,-76.713833,27,None,Center Walkway - FAB/MEYR/UC/ENGR,Staircase - FAB/ENGR
+Upper Walkway - ENGR/ITE Staircase,39.254311,-76.714547,54,None,None
+PAHB (E),39.255066,-76.714639,64,Upper Walkway - ENGR/ITE Staircase,None
+Center Walkway - FAB/MEYR/UC/ENGR,39.254702,-76.713359,36,None,None
